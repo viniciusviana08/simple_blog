@@ -31,8 +31,8 @@ Este é um projeto de blog desenvolvido em Flask que permite a criação de post
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
-    cd seu-repositorio
+    git clone https://github.com/viniciusviana08/simple_blog.git
+    cd simple_blog
     ```
 
 2. Crie e ative um ambiente virtual:
