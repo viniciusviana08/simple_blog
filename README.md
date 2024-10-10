@@ -89,6 +89,3 @@ Este é um projeto de blog desenvolvido em Flask que permite a criação de post
     http://127.0.0.1:5000
     ```
 
-## Estrutura de Pastas
-/projeto │ ├── /static │ ├── /templates │ ├── index.html │ ├── login.html │ ├── novopost.html │ ├── adm.html │ ├── editarusuario.html │ ├── erro404.html ├── app.py ├── config.py ├── requirements.txt
-
