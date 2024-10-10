@@ -17,8 +17,6 @@ Este é um projeto de blog desenvolvido em Flask que permite a criação de post
 - [Flask](https://flask.palletsprojects.com/)
 - [MySQL](https://www.mysql.com/)
 - HTML/CSS (via templates com [Jinja2](https://jinja.palletsprojects.com/))
-- [Bootstrap](https://getbootstrap.com/) (para estilização)
-
 ## Pré-requisitos
 
 - Python 3.7+
